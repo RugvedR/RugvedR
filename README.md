@@ -21,5 +21,5 @@
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RugvedR&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=RugvedR&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RugvedR&theme=gotham&hide_border=true)<br/>
 
