@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rugved Rajandekar</h1>
+<h1 align="center">Hi, I'm Rugved Rajandekar</h1>
 <h3 align="center">A Software enthusiast | Passionate Frontend developer | Aspiring Full-stack dev | Ready to learn new Technologies</h3>
 
-- 🔭 I’m currently pursuing B. Tech in **Electronics & Telecommunication Engg.**
+- I’m currently pursuing B. Tech in **Electronics & Telecommunication Engg.**
 
-- 🌱 I’m currently learning **Web development, MERN (full-stack)**
+- I’m currently learning **Web development, MERN (full-stack)**
 
-- 💬 Ask me about **React, Flutter**
+- Ask me about **React, Flutter**
 
-- 📫 Reach me at **rugvedr9@gmail.com**
+- Reach me at **rugvedr9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
